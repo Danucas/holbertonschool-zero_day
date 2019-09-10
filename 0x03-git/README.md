@@ -1,1 +1,1 @@
-this is the git section
+**this is the git section**
